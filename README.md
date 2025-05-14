@@ -29,14 +29,14 @@ The data used in this analysis is obtained from https://www.kaggle.com/datasets.
     If you are running in Google Colab, most of these are pre-installed. You might need to install `plotly`:
 ## Usage
 
-1.  **Open the notebook:** Open the Jupyter Notebook file (`[your_notebook_name].ipynb`) in your preferred environment (Google Colab, Jupyter Lab, Jupyter Notebook).
+1.  **Open the notebook:** Open the Jupyter Notebook file (`Covid19 Tracker.ipynb`) in your preferred environment (Google Colab, Jupyter Lab, Jupyter Notebook).
 2.  **Run the cells:** Execute the notebook cells sequentially to perform the data loading, cleaning, analysis, and visualization steps.
-3.  **Explore the visualizations:** Review the generated plots to understand the trends and patterns in the COVID-19 data for the selected [continents/countries].
+3.  **Explore the visualizations:** Review the generated plots to understand the trends and patterns in the COVID-19 data for the selected [continents].
 
 ## Project Structure
 
-*   `[your_notebook_name].ipynb`: The main Jupyter Notebook containing the code for the analysis and visualizations.
-*   `[data_file_name].csv`: The raw COVID-19 data file used in the analysis. (Update the file name if it's different or if you download it programmatically).
+*   `Covid19 Tracker.ipynb`: The main Jupyter Notebook containing the code for the analysis and visualizations.
+*   `covid.csv`: The raw COVID-19 data file used in the analysis. (Update the file name if it's different or if you download it programmatically).
 *   `README.md`: This file.
 
 ## Key Features
